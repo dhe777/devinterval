@@ -6,5 +6,5 @@ def interval seconds
 end 
 
 interval 2 do
-  puts "hey there"
+  puts "hey there" 
 end
